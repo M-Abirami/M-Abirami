@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @M-Abirami
-- 👀 I’m interested in watching movie
+- 👀 I’m interested in web application
 - 🌱 I’m currently learning mern stack with web development
 - 📫 How to reach me abiramigayu08@gmail.com
 
